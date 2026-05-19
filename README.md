@@ -4,16 +4,16 @@ Este repositório reúne os prompts oficiais e a fundamentação metodológica p
 
 O ecossistema está dividido de forma modular para garantir o alinhamento estratégico antes da automação técnica.
 
-## 🗂️ Navegação pelos Prompts
+## Navegação pelos Prompts
 
 * [**Prompt 1: Análise de Negócio (DAN)**](./1-DAN_Analise_de_Negocio.md) — Focado no *"O Quê"*. Transforma a ideia inicial em entendimento do problema e proposta de solução (baseado no Método ZOPP).
 * [**Prompt 2: Definição do Sistema (DDS)**](./2-DDS_Definicao_do_Sistema.md) — Focado no *"Como"*. Estrutura a arquitetura e os requisitos técnicos necessários para a automação.
 
 ---
 _Estes recursos servem como complemento prático para o artigo publicado no LinkedIn:_
-👉 [**Leia o artigo completo no LinkedIn**](https://www.linkedin.com/pulse/desenvolvimento-de-software-assistido-por-ia-o-paradigma-pald%25C3%25AAs-lxegf)
+ [**Leia o artigo completo no LinkedIn**](https://www.linkedin.com/pulse/desenvolvimento-de-software-assistido-por-ia-o-paradigma-pald%25C3%25AAs-lxegf)
 
-## 🚀 Contribuições e Evolução Contínua
+## Contribuições e Evolução Contínua
 
 Este projeto não é estático. Os prompts são aprimorados constantemente à medida que novas práticas de engenharia de software e atualizações nos modelos de IA (LLMs) evoluem.
 
