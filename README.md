@@ -12,3 +12,11 @@ O ecossistema está dividido de forma modular para garantir o alinhamento estrat
 ---
 _Estes recursos servem como complemento prático para o artigo publicado no LinkedIn:_
 👉 [**Leia o artigo completo no LinkedIn**](https://www.linkedin.com/pulse/desenvolvimento-de-software-assistido-por-ia-o-paradigma-pald%25C3%25AAs-lxegf)
+
+## 🚀 Contribuições e Evolução Contínua
+
+Este projeto não é estático. Os prompts são aprimorados constantemente à medida que novas práticas de engenharia de software e atualizações nos modelos de IA (LLMs) evoluem.
+
+Sua experiência é fundamental para essa evolução! Se você testou os prompts e identificou melhorias nas regras semânticas, na árvore de problemas ou na precisão do DDS, sinta-se à vontade para contribuir:
+* **No GitHub:** Abra uma *Issue* com a sua sugestão.
+* **No LinkedIn:** Deixe seu feedback diretamente nos comentários do artigo.
