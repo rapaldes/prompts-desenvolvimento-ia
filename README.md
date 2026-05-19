@@ -10,4 +10,5 @@ O ecossistema está dividido de forma modular para garantir o alinhamento estrat
 * [**Prompt 2: Definição do Sistema (DDS)**](./2-DDS_Definicao_do_Sistema.md) — Focado no *"Como"*. Estrutura a arquitetura e os requisitos técnicos necessários para a automação.
 
 ---
-_Estes recursos servem como complemento prático para o artigo publicado no LinkedIn sobre Engenharia de Negócios e Vibe Coding._
+_Estes recursos servem como complemento prático para o artigo publicado no LinkedIn:_
+👉 [**Leia o artigo completo no LinkedIn**](https://www.linkedin.com/pulse/desenvolvimento-de-software-assistido-por-ia-o-paradigma-pald%25C3%25AAs-lxegf)
